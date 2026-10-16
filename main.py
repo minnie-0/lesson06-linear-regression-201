@@ -186,4 +186,3 @@ with st.expander("연도별 분석 데이터 확인"):
         use_container_width=True,
         hide_index=True
     )
-```
